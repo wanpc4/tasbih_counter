@@ -1,0 +1,54 @@
+.counter h1{
+	font-family: Arial;
+}
+
+.counter h2{
+	font-family: Arial;
+}
+
+.counter{
+	text-align: center;
+	width: 100%;
+}
+
+.counter-btn{
+	width: 100%;
+	margin: 0 auto;
+}
+
+.counter-btn button{
+	background-color: lightgreen;
+	text-align: center;
+	height: 220px;
+	width: 220px;
+}
+
+.counter-btn #start{
+	font-size: 45px;
+}
+
+.counter-btn #number{
+	font-size: 50px;
+}
+
+.counter #reset-btn{
+	background-color: yellow;
+	border: 2px solid black;
+	font-size: 15px;
+	height: 40px;
+	width: 104px;
+}
+
+.counter #exit-btn{
+	background-color: red;
+	border: 2px solid black;
+	font-size: 15px;
+	height: 40px;
+	width: 104px;
+}
+
+footer{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
